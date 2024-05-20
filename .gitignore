@@ -7,3 +7,15 @@ release/
 *.dot
 *.log
 *.ign
+
+api/hssn/hssn/genesis.pulsar.go
+api/hssn/hssn/params.pulsar.go
+api/hssn/hssn/query_grpc.pb.go
+api/hssn/hssn/query.pulsar.go
+api/hssn/hssn/tx_grpc.pb.go
+api/hssn/hssn/tx.pulsar.go
+api/hssn/hssn/module/module.pulsar.go
+x/hssn/types/genesis.pb.go
+x/hssn/types/params.pb.go
+x/hssn/types/query.pb.go
+x/hssn/types/tx.pb.go
